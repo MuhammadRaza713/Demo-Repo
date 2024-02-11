@@ -1,7 +1,7 @@
 # Demo-Repo
 this is my first github demo Repo
 <br>
-Malik Muhammad Raza
+Author: Malik Muhammad Raza
 
 const a =10;
 const b = 20;
